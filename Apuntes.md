@@ -1,5 +1,8 @@
 # SGI - Sistemas de Gestion Integrados
 
+> [!WARNING]
+> No esta terminado
+
 ## 0. Indice
 
 1. [Evolucion historica](#1-evolucion-historica)
@@ -169,9 +172,6 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * Mejora continua
   * Desarrollo de alianzas
   * Responsabilidad social
-
-> [!NOTE]
-> No esta terminado
 
 ## 3. Modelo EFQM
 
