@@ -170,7 +170,28 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * Desarrollo de alianzas
   * Responsabilidad social
 
-[!NOTE]
-[Por terminar]
+> [!NOTE]
+> No esta terminado
 
 ## 3. Modelo EFQM
+
+### 3.1 Introduccion
+
+* Fundacion creado en 1988 por 14 empresas europeas. 
+* Actualmente son 800 miembros.
+* Mision:
+  * Estimular y ayudar a las organizaciones europeas a alcanzar la excelencia.
+* Modelo:
+  * Modelo EFQM de Excelencia
+
+### 3.2 Criterios
+
+* Liderazgo
+* Politica y Estrategia
+* Personas
+* Alianzas y Recursos
+* Procesos, Productos y Servicios
+* Resultados en los clientes
+* Resultados en las personas
+* Resultados en la sociedad
+* Resultados clave
