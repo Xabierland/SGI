@@ -176,13 +176,28 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * EFQM
 * Principios de Excelencia
   * Orientacion a resultados
+    * Enfocar la realidad a los datos, no la opinion o creencia.
+    * Planificar todo
+    * Establecer objetivos
+    * Asociar objetivos acciones y seguimientos
   * Orientacion al cliente
+    * Todas las empresas deben de basarse en el cliente.
+    * Intentar siempre crear un valor añadido para el cliente mediante conocer bien lo que le satisface
   * Liderazgo
+    * Es necesario gente que inspire al resto de trabajadores
+    * Establecen comunicacion directa y clara
+    * Unen y motivan
+    * Establecen valores y principios eticos
   * Gestion por procesos y hechos
+    * Trabajar para los grupos de interes como son los trabajadores clientes socios y sociedad.
   * Desarrollo e implicacion de las personas
+    * Las organizaciones intentan desarrollar a los trabajadores mediante formacion y motivar a los empleados
   * Mejora continua
+    * Aprender continuamente y cambiar respecto a ellos
   * Desarrollo de alianzas
+    * Las organizaciones se necesitan unas a otras para optimizar, crecer o mejorar la produccion, esto se puede conseguir mediante las alianzas.
   * Responsabilidad social
+    * Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
 
 ## 3. Modelo EFQM
 
@@ -194,11 +209,37 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * Estimular y ayudar a las organizaciones europeas a alcanzar la excelencia.
 * Modelo:
   * Modelo EFQM de Excelencia
+  * Agentes facilitadores
 
 ### 3.2 Criterios
 
 * Liderazgo
+  * a) Los lideres establecen y comunican una clara orientación estratégica, logran unir a sus colaboradores y hacen posibles sus objetivos
+    * Trasmiten la misión visión y los valores
+    * Promueven valores y son modelo de referencia, de integridad y comportamiento ético
+    * Tienen un comportamiento etico y responsable
+    * Desarrollan una cultura de liderazgo compartido
+  * b) Siguen la evolución de la gestión con un conjunto equilibrado de resultados, proporcionando a los grupos de interés lleve un conjunto de prioridades a corto y largo plazo
+    * Desarrollan y mejoran el sistema de gestión de la organización que incluye evaluar los resultados para mejorar el rendimiento futuro y proponer soluciones sostenibles a los grupos de interés
+    * Fundamentar las decisiones en información fiable basada en datos y conocimientos disponibles para interpretar el actual y deducibles de los procesos actuales.
+    * Responden de su gestión ante los grupos de interés
+  * c) Los lideres conocen los grupos de interes externos y desarrollan enfoques para entender, anticipar y dar respuesta a sus distintas expectativas y necesidades
+    * Desarrollan iniciativas para implicar a partners, clientes y sociedad en la innovacion.
+    * Utilizan la innovacion para mejorar la reputacion e imagen de la organizacion y atraer nuevos clientes, partners y talentos.
+    * Identificar acuerdos estrategicos y operativos para la organizacion
+    * Asegurar la transparencia en la informacion a los grupos de interes incluidos los organos del gobierno
+  * d) Los lideres son fruto de inspiracion para una persona y crean a todos los niveles una cultura empresarial de mejora implicacion perseveracion y responsabilidad
+    * Fomentar una nueva cultura de nuevas ideas y nuevos modos de pensar para implusar la industria y desarrollar a la organizacion
+    * Apoyar a las personas para que hagan realidad sus ideas
+    * Fomentar la igualdad de opertunidades y la diversidad
+  * e) Los lideres comprenden los fenomenos internos y externos que impulsan el cambio en una organizacion
+    * Demuestran su capacidad para tomar decisiones fundamentadas y operativas basadas en informacion dispnible, su experiencia previa y el analisis de impacto de sus decisiones
+    * Son flexibles revisan y adaptan y corrigen el rumbo de la organizacion caundo es necesario inpirando confianza en todo momento
+    * Implican a todos los grupos de interes y se esfuerzan por lograr su compromiso buscando su contribucion al exito de la organizacion con la introduccion de los cambios necesario
+    * Asignan recursos segun la necesidades a largo plazo para asegurar, cuando la competitividad es segura, que la organizacion sea y se mantenga competitiva.
 * Politica y Estrategia
+  * a) La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y de los grupos externos.
+  * b) La estrategia se basa en comprender el rendimiento interno
 * Personas
 * Alianzas y Recursos
 * Procesos, Productos y Servicios
