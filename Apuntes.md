@@ -7,6 +7,17 @@
 
 1. [Evolucion historica](#1-evolucion-historica)
 2. [Conceptos de Gestion de Calidad](#2-conceptos-de-gestion-de-calidad)
+3. [Modelo EFQM](#3-modelo-efqm)
+4. [Equipos de mejora](#4-equipos-de-mejora)
+5. [Procesos](#5-procesos)
+6. [Extrategia](#6-extrategia)
+7. [Liderazgo](#7-liderazgo)
+8. [Formacion de las 5 ESES](#8-formacion-de-las-5-eses)
+9. [ISO 9001 - 2015](#9-iso-9001---2015)
+10. [ISO 14001 - 2004](#10-iso-14001---2004)
+11. [ISO 14001 - 2015](#11-iso-14001---2015)
+12. [ISO 45001](#12-iso-45001)
+13. [OHAS 18000](#13-ohas-18000)
 
 ## 1. Evolucion historica
 
@@ -195,3 +206,23 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Resultados en las personas
 * Resultados en la sociedad
 * Resultados clave
+
+## 4. Equipos de mejora
+
+## 5. Procesos
+
+## 6. Extrategia
+
+## 7. Liderazgo
+
+## 8. Formacion de las 5 ESES
+
+## 9. ISO 9001 - 2015
+
+## 10. ISO 14001 - 2004
+
+## 11. ISO 14001 - 2015
+
+## 12. ISO 45001
+
+## 13. OHAS 18000
