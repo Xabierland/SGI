@@ -203,7 +203,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ### 3.1 Introduccion
 
-* Fundacion creado en 1988 por 14 empresas europeas. 
+* Fundacion creado en 1988 por 14 empresas europeas.
 * Actualmente son 800 miembros.
 * Mision:
   * Estimular y ayudar a las organizaciones europeas a alcanzar la excelencia.
@@ -250,6 +250,114 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 4. Equipos de mejora
 
+### 4.1 Introduccion
+
+* El trabajo en equipo es un pilar de la organizacion.
+* Es necesario que los equipos conozcan los fundamentos
+*  
+
+### 4.2 Equipos de mejora
+
+* Grupo de personas que trabajan juntas para mejorar un proceso o resolver un problema.
+* Gracias al conocimiento de cada participante se puede llegar a una mejor solucion.
+* Razones:
+  * La union hace la fuerza
+  * Mejora el proceso desde dentro
+  * Mejora la comunicacion
+  * Son los propios trabajadores los que conocen el proceso y lo mejoran
+* Los equipos seleccionan un tema y lo trabajan durante el proceso de mejora.
+* Este mismo equipo despues recogera los datos, los revisara y si el proceso funciona se implantara.
+
+### 4.3 Lider, facilitador y participantes
+
+#### Lider
+
+* El lider es el responsable del equipo de mejora.
+* Tareas:
+  * Dirigir el equipo
+  * Ayuda a mejorar el ambiente de trabajo
+  * Corrige los problemas
+  * Se forma en todas las tecnicas necesarias
+  * Mantiene el contacto con el Consultor Externo
+  * Participa en las sesiones
+  * Mantiene el contacto y la comunicacion con la Direccion
+
+#### Facilitador
+
+* Aquel que ayuda al lider.
+* Tareas:
+  * Entiende el modelo y lo extiende
+  * Ayuda a resolver problemas
+  * Estimula al equipo
+  * Identifica los problemas y valora los resultados
+  * Consigue las herramientas necesarias
+
+#### Participantes
+
+* Son los que conocen y desempeñan el proceso.
+* Tareas:
+  * Se esfuerzan en las tareas
+  * Utilizan el modelo
+  * Asisten a las reuniones y participan
+  * Tienen capacidad para expresas sus ideas
+  * Reconocen la mejora
+  * Se esfuerzan por el exito del equipo
+
+### 4.4 Tecnicas de trabajo en equipo
+
+#### Lluvia de ideas
+
+* Es una tecnica de grupo para generar ideas.
+* Se basa en soltar ideas una detras de otra sin parar.
+* Tipos
+  * Por libre rotacion
+  * Por turnos
+  * Por escrito
+* Reglas
+  * Establecer proposito
+  * Establecer turnos
+  * No criticar
+  * Ideas basadas en las anteriores
+  * Anotar las ideas de forma visible
+  * Dar importancia a la cantidad
+  * Pasar si no se tiene nada que decir
+  * Limitar el tiempo
+* Pasos:
+  * El facilitador anota ideas
+  * El lider define la dinamica
+  * Los participantes aportan ideas
+  * El lider ayuda a que todo sea dinamico
+
+#### Diagramas causa-efecto
+
+* Fases:
+  * Definir el problema/efecto
+  * Usar la lluvia de ideas para encontrar las causas
+  * Identificar las causas
+  * 
+
+#### Diagramas de Pareto
+
+* Se busca mejorar los pequeños grupos que tienen mayor impacto en el proceso.
+* Pasos:
+  * Ordenar lcas caracteristicas del proceso
+  * Mostrar la causa mas importante
+  * Ordenar de mayor a menor
+
+#### Gestion con datos
+
+* Se basa en la recogida de datos para mejorar el proceso.
+* Los indicadores son los datos que se recogen.
+* Solo se mejora lo que se mide.
+* Los indicadores deben servir para el avance y la mejora.
+
+### 4.5 Conclusiones
+
+* Las actividades del equipo deben estar enfocadas en el Ciclo PDCA.
+* Se usan diagramas de flujo para representar los procesos.
+* Esto facilita la comprension y estudio de los procesos.
+* Se utilizan un conjunto de simbolos para representar las actividades.
+
 ## 5. Procesos
 
 ## 6. Extrategia
@@ -263,6 +371,47 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 ## 10. ISO 14001 - 2004
 
 ## 11. ISO 14001 - 2015
+
+### 11.1 Contexto de la organizacion
+
+#### 11.1.1 Comprension
+
+* Cuestión clave para la organización interna y externa
+
+#### 11.1.2 Necesidades y expectativas de las partes interna
+
+* Definir parte interesada
+* Requisitos de la parte interna
+* Requisitos que se convierten en requisitos legales
+
+#### 11.1.3 Alcance sistema gestión
+
+* Cuestion legal
+* Cuestion externa e interna
+* Unidades y limites fisicos
+* Produccion, servicios y procesos
+* Autoridad
+
+### 11.2 Sistema gestion medioambiental
+
+#### 11.2.1 Liderazgo y compromiso
+
+* Responsabilidad
+* Establecer politicas medioambierntales
+* Recursos
+* Comunicacion
+* Objetivos medioambientales
+* Apoyo a las personas
+* Mejora continua
+* Implicacion de la direccion
+
+#### 11.2.2 Politica ambiental
+
+* Ser apropiado el impacto ambiental de la organizacion en la naturaleza
+* Marcos de referencia para el establecimiento de objetivos medioambientales
+* Compromiso proteccion medioambiental y prevencion de la contaminacion
+* Requisitos legales
+* Mejora continua del sistema de gestion medioambiental
 
 ## 12. ISO 45001
 
