@@ -366,6 +366,34 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 8. Formacion de las 5 ESES
 
+* Organizacion
+* Orden
+* Limpieza
+* Control Visual
+* Disciplina
+
+### 8.1 Fases Operativas
+
+#### 8.1.1 Organizacion
+
+* Indentificar, clasificar, separa y elimitar todo lo que no sea necesario.
+
+#### 8.1.2 Orden
+
+* Establecer la manera en que los materiales, herramientas y equipos deben de estar ubicados e identificados para encontrarlo, usarlo y devolverlo facilmente.
+
+#### 8.1.3 Limpieza
+
+* Identificar y eliminar las fuentes de suciedad facilitando la inspeccion visual.
+
+### 8.2 Fases de estandarizacion
+
+#### 8.2.1 Control visual
+
+### 8.3 Fases de mantenimiento
+
+#### 8.3.1 Disciplina
+
 ## 9. ISO 9001 - 2015
 
 ## 10. ISO 14001 - 2004
@@ -412,6 +440,57 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Compromiso proteccion medioambiental y prevencion de la contaminacion
 * Requisitos legales
 * Mejora continua del sistema de gestion medioambiental
+
+#### 11.2.3 Responsabilidad y autoridad
+
+* Se deben direccion debe de asignar responsabilidades para que se cumpla la politica medioambiental y se informe del desempeño del sistema de gestion medioambiental
+
+#### 11.2.4 Planificacion
+
+* Alcances del sistema gestion medioambiental
+  * Determinar que aspectos ambientales son relevantes
+  * Tener en cuenta los cambios y las nuevas actividades
+  * Tener en cuenta condiciones anormales y situaciones de emergencia
+* Los requisitos legales
+  * La organizacion debe de tener en cuenta los requisitos legales y su implicacion en la organizacion
+* Determinar los riesgos y oportunidades
+* Objetivos medioambientales y toma de acciones
+  * Desarrollar los objetivos medioambientales
+  * Asociar planes de accion para cumplir los objetivos
+
+### 11.3 Comunicacion y competencia de las personas y documentacion
+
+* La organizacion debe asegurar las competencias de las personas que trabajan en el sistema de gestion medioambiental
+* La organizacion debe asegurar la comunicacion interna y externa del sistema de gestion medioambiental
+* La organizacion debe disponer de la informacion documentada necesaria para el sistema de gestion medioambiental
+
+### 11.4 Procesos medioambientales
+
+* La organizacion debe establecer, implementar, controlar y mantener los procesos necesarios para el sistema de gestion medioambiental
+
+### 11.5 Emergencias
+
+* La organizacion debe establecer, implementar y mantener los procesos necesarios para identificar situaciones de emergencia y responder a ellas
+
+### 11.6 Mejora, auditorias internas y revisiones
+
+* Comunes con 9001-2015
+  * No conformidad
+  * Accion correctiva
+  * Mejora continua
+  * Auditoria interna
+
+#### 11.6.1 Revision por la direccion
+
+* Todos los procesos deben ser revisados
+* Acciones revision interna
+* Cambios en gestion medioambiental, riesgos y oportunidades
+* Objetivos medioambientales
+* No conformidades y acciones correctivas
+* Resultados auditorias
+* Comunicacion de la direccion
+* Quejas
+* Oportunidades de mejora
 
 ## 12. ISO 45001
 
