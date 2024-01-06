@@ -362,6 +362,35 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 6. Extrategia
 
+### 6.1 Definicion
+
+* Mision
+  * Razon de la organizacion.
+  * ¿Porque existe?
+  * ¿Proposito?
+* Vision
+  * El tipo de organizacion que se quiere ser.
+* Valores
+  * Conocimientos, expectativas y comportamientos que son apreciados por la organizacion.
+* Politicas
+  * Criterios o reglas de actuacion dentro de la mision establecida.
+* Objetivos
+  * Lo que se quiere conseguir, resultados a alcanzar.
+  * Debe ser cuantificable y con plazo
+* Estrategias
+  * Conjunto de acciones que tratan de alcanzar un objetivo.
+* Planes de accion
+  * Conjunto de acciones y programa de actuacion CONCRETOS para alcanzar un objetivo
+
+### 6.2 Proceso de planificacion estrategica
+
+* Definicion de la mision
+* Analisis interno
+* Analisis externo
+* Formulacion de la estrategia
+  * Estrategia
+  * Politicas
+
 ## 7. Liderazgo
 
 ## 8. Formacion de las 5 ESES
@@ -377,22 +406,47 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 #### 8.1.1 Organizacion
 
 * Indentificar, clasificar, separa y elimitar todo lo que no sea necesario.
+* Separar y eliminar los materiales innecesarios
 
 #### 8.1.2 Orden
 
 * Establecer la manera en que los materiales, herramientas y equipos deben de estar ubicados e identificados para encontrarlo, usarlo y devolverlo facilmente.
+* Un lugar para cada cosa y cada cosa en su lugar.
 
 #### 8.1.3 Limpieza
 
 * Identificar y eliminar las fuentes de suciedad facilitando la inspeccion visual.
+* Limpieza es inspeccion, mejor que limpiar es no manchar.
 
 ### 8.2 Fases de estandarizacion
 
 #### 8.2.1 Control visual
 
+* Distinguir facilmente una situacion normal de una anormal de forma visual.
+
 ### 8.3 Fases de mantenimiento
 
 #### 8.3.1 Disciplina
+
+* Trabajar permanentemente de acuerdo con las normas establecidad.
+
+### 8.4 Mejoras y actitudes
+
+* Mejoras
+  * Menos averias
+  * Menos accidente
+  * Menos movimiento inutiles
+  * Menos tiempo para el cambio
+  * Mas espacio
+  * Mejor imagen del departamento
+* Actitudes
+  * Orgullo del lugar de trabajo
+  * Comunicacion mas fluida
+  * Motivacion
+  * Iniciativas de mejora
+  * Mayor compromiso
+  * Mejor conocimiento del puesto
+  * Mejor identificacion de problemas
 
 ## 9. ISO 9001 - 2015
 
