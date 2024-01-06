@@ -46,7 +46,7 @@ En la norma ISO 9001-2015, explicar los aspectos que tiene en cuenta la revision
 
 El concepto de Calidad se baso durante la primera mitad del siglo XX en el "control de calidad" de producto. ¿que dos elementos relacionados con la organizacion se desarrollaron en los Estados Unidos de America y dieron orgien a ese concepto de calidad?
 
->
+> Taylos con la division del trabajo y Ford con la cadena de montaje.
 
 Definir: producto no conforme, incidencia y reclamacion. Describir las acciones a realizar con los productos no conformes.
 
