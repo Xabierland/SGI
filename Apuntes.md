@@ -1,23 +1,23 @@
 # SGI - Sistemas de Gestion Integrados
 
 > [!WARNING]
-> No esta terminado
+> *No esta terminado
 
 ## 0. Indice
 
 1. [Evolucion historica](#1-evolucion-historica)
 2. [Conceptos de Gestion de Calidad](#2-conceptos-de-gestion-de-calidad)
-3. [Modelo EFQM](#3-modelo-efqm)
+3. [*Modelo EFQM](#3-modelo-efqm)
 4. [Equipos de mejora](#4-equipos-de-mejora)
-5. [Procesos](#5-procesos)
+5. [*Procesos](#5-procesos)
 6. [Extrategia](#6-extrategia)
 7. [Liderazgo](#7-liderazgo)
 8. [Formacion de las 5 ESES](#8-formacion-de-las-5-eses)
-9. [ISO 9001 - 2015](#9-iso-9001---2015)
-10. [ISO 14001 - 2004](#10-iso-14001---2004)
+9. [*ISO 9001 - 2015](#9-iso-9001---2015)
+10. [*ISO 14001 - 2004](#10-iso-14001---2004)
 11. [ISO 14001 - 2015](#11-iso-14001---2015)
-12. [ISO 45001](#12-iso-45001)
-13. [OHAS 18000](#13-ohas-18000)
+12. [*ISO 45001](#12-iso-45001)
+13. [*OHAS 18000](#13-ohas-18000)
 
 ## 1. Evolucion historica
 
@@ -254,7 +254,13 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 * El trabajo en equipo es un pilar de la organizacion.
 * Es necesario que los equipos conozcan los fundamentos
-*  
+* Aprender mediante la practica
+* Los problemas se resuelven donde se producen
+* Con esto se consigue:
+  * Se traslada la responsabilidad a los trabajadores
+  * Participacion y trabajo en equipo
+  * Gestion de procesos
+  * Gestion de datos
 
 ### 4.2 Equipos de mejora
 
@@ -333,8 +339,8 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Fases:
   * Definir el problema/efecto
   * Usar la lluvia de ideas para encontrar las causas
-  * Identificar las causas
-  * 
+  * Identificar las causas y agruparlas por categorias (espina de pescado)
+  * Dividir los problemas en subproblemas (espinas) para facilitar la busqueda de causas
 
 #### Diagramas de Pareto
 
@@ -384,14 +390,157 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ### 6.2 Proceso de planificacion estrategica
 
-* Definicion de la mision
+* Planificacion estrategica
+  * Definicion de la mision
 * Analisis interno
 * Analisis externo
 * Formulacion de la estrategia
   * Estrategia
   * Politicas
 
+#### 6.2.1 Planificacion estrategica
+
+* Metas
+* Planes
+* Factores criticos de exito
+* Corto plazo
+* Medio plazo
+
+#### 6.2.2 Analisis interno
+
+* Ventas
+* Segmentacion ventas
+  * Productos y margenes 
+* Clientes y su segmentacion
+  * ABC...
+  * Geografica
+  * Situacion del mercado
+  * Potencial de crecimiento
+  * Cambios en las decisiones de compra
+* Productos y su segmentacion
+  * Ciclo de vida
+  * Crecimiento y futuro
+  * Cambios de los nuevos productos o sustitutos
+* Proveedores y productos comprados
+  * ABC...
+  * Materiales principales
+  * Materiales comprados
+  * Coste de las materias primas
+  * Evolucion de la tecnologia
+* Empleados, analisis de personas
+  * Estrucutra de la organizacion
+  * Numero de personas y funciones que desempeñan
+  * Puestos de trabajo y la adecuacion de las personas
+  * Matrices de competencias
+  * Clima labolar, motivacion, satisfaccion, etc.
+  * Liderazgo
+* Competencia y nuevos productos
+  * Analisis de la competencia
+    * Sus productos
+    * SUs fortalezas
+    * Areas de mejora
+* Analisis economico y financiero
+  * Benchmarking
+    * Comparacion de los procesos de la empresa con los de la competencia y lideres del sector.
+    * Se busca la mejora continua
+    * Estudios, visitas, entrevistas, indicatores, etc.
+
+#### 6.2.3 Analisis externo
+
+* Situacion economica cercana
+* Situacion economica estatal, europea y mundial
+  * Evolucion del PIB, inflacion y niveles de divisas
+  * Evolucion del mercado de trabajo y nivel salariales
+* Cambios en entorno sociales
+* Cambios legislativos - Normativas del mercado, producto o mercado laboral.
+  * Normativas de los productos
+  * Normativas de transporte, embalaje...
+  * Normativas de seguridad
+  * Otras normativas...
+
+#### 6.2.4 Formulacion de la estrategia
+
+* Mision, vision y valores
+* Lineas maestras de desarrollo
+* Politicas de la mision y condiciones establecidas para el objetivo
+* Establecer objetivos estrategicos
+* Acciones para alcanzar los objetivos
+* Establecer metas
+* Planes para alcanzar las metas
+
+#### 6.2.5 Revision de la estrategia
+
+* Revisar lo logrado
+* Analizar los problemas
+* Revisar metas
+* Revisar alcance y causas
+* Conclusiones
+* Nuevo ciclo estrategico global
+
 ## 7. Liderazgo
+
+### 7.1 Cambios
+
+* Globalizacion
+* Nuevos modelos economicos
+* Necesidad informar a los clientes y consumidores
+* Cambios tecnologicos
+* Responsabilidad social
+
+### 7.2 Aportaciones
+
+* Vision a largo plazo
+* Abierto a cambios
+* Compromisos personales
+* Esfuerzo para implicar al trabajador
+* Sevir de ejemplo
+
+### 7.3 Por que
+
+* Influye en la motivacion
+* Multiplica el esfuerzo
+* Nuevas actuaciones
+* Conocimiento especializado
+
+### 7.4 Funciones
+
+* Impulsar
+* Comprometer
+* Facilitar
+
+### 7.5 Tipos
+
+* Liderazgo transaccional
+  * Se basa en el intercambio de recompensas
+  * Se basa en el cumplimiento de las normas
+  * Se basa en el castigo
+* Liderazgo transformacional
+  * Se basa en la motivacion
+  * Se basa en la inspiracion
+  * Se basa en la estimulacion intelectual
+  * Se basa en la consideracion individualizada
+
+### 7.6 Como actua
+
+* Ordena
+* Vende
+* Prueba
+* Consulta
+* Acuerda
+
+### 7.7 Objetivos
+
+* Compromiso del equipo
+* Poner el equipo en accion
+* Mejora las capacidades del equipo
+
+### 7.8 Como se logra
+
+* Coherente
+* Conoce a su equipo
+* Consciente de su influencia
+* Asume responsabilidades
+* Gana confianza del equipo
 
 ## 8. Formacion de las 5 ESES
 
