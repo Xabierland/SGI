@@ -9,7 +9,7 @@
 2. [Conceptos de Gestion de Calidad](#2-conceptos-de-gestion-de-calidad)
 3. [*Modelo EFQM](#3-modelo-efqm)
 4. [Equipos de mejora](#4-equipos-de-mejora)
-5. [*Procesos](#5-procesos)
+5. [Procesos](#5-procesos)
 6. [Extrategia](#6-extrategia)
 7. [Liderazgo](#7-liderazgo)
 8. [Formacion de las 5 ESES](#8-formacion-de-las-5-eses)
@@ -365,6 +365,75 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Se utilizan un conjunto de simbolos para representar las actividades.
 
 ## 5. Procesos
+
+### 5.1 Concepto
+
+* Orientado a los resultados
+* Orientado al cliente
+* Liderazgo y constancia en los objetivos
+* Gestion por procesos y hechos
+  * Comprender y gestionar todas las actividades para tomar decisiones en base a informacion fiable que incluya todas las perspectivas.
+* Desarrollo e implicacion de las personas
+* Aprendizaje, innovacion y mejora continua
+* Desarrollo de alianzas
+* Responsabilidad social
+
+### 5.2 Proceso
+
+* Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes.
+
+### 5.3 Fases a desarrollar
+
+1. Identificar y secuenciar los procesos
+   1. Influencia en el cliente
+   2. Efectos en los productos/servicios
+   3. Factores clave de exito
+   4. Misiones y estrategias
+   5. Requisitos legales
+   6. Riesgos economicos y de insatisfaccion
+   7. Utilizacion intensiva de recursos
+2. Describir los procesos
+3. Hacer un seguimiento y medir los procesos
+4. Mejorar los procesos en base al seguimiento y medicion.
+
+### 5.4 Tipos de procesos
+
+* Procesos de pilotaje
+  * Procesos de planificacion estrategica
+  * Procesos de adaptacion al entorno
+  * Procesos reflexivos
+* Procesos operativos
+  * Procesos de realizacion de productos/servicios
+    * El nivel de los mapas de procesos depende de la complejidad de la organizacion
+    * Lo que hay entre lo que pide el cliente y lo que se le entrega
+* Procesos de soporte
+  * Facilitan los procesos operativos
+* Procesos de comunicacion interna
+  * Gestionan la comunicacion interna
+  * Estructura:
+    * Equipo de proceso
+      * Elegir propietario
+      * Elegir grupos de trabajo (4-6 personas)
+      * PDI, PAS y alumnos
+      * Direccion y personal base
+      * Varios departamentos
+      * Equipo de trabajo permanente
+    * Actividades (Ficha de proceso)
+      * Nombre
+      * Equipo, propietario
+      * Entradas
+      * Salidas
+      * Alcance
+      * Diagramas de flujo
+      * Inspeccion
+      * Indicadores
+    * Modelo de gestion e indicadores
+      * Calendario de reuniones
+      * Capacidad de actuacion
+      * Relaciones con la direccion
+      * Modelo de objetivos y su seguimiento
+    * Apoyo de la direccion
+      * Modo de relacion entre Proceso y la Direccion
 
 ## 6. Extrategia
 
