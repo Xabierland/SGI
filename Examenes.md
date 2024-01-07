@@ -16,7 +16,7 @@
 
 3. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
 
->
+> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente. Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
 
 4. Herramientas para desarrollar trabajos en equipo, citar y explicar.
 
@@ -91,10 +91,13 @@
 3. En el modelo EFQM explicar el criterio liderazgo y de sus subcriterios elegir uno y desarrollarlo.
 4. Explicar el concepto de aseguramiento de la calidad y su conexion con el concepto clasico de control de calidad.
 5. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
+
+> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente. Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
+
 6. Definir dentro dela OHSAS 18001:1999 riesgo, seguridad y riesgo tolerable.
 7. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
 8. Procesos definicion, tipos de procesos y definicion de los mismos. Relacionar con el modelo EFQM.
-9. Dentro de la norma ISO 9001:2015, explicar que es la revision por la direccion. Explicar los temas que debe recoger la revision de la direccion para cumplir con la norma.
+9.  Dentro de la norma ISO 9001:2015, explicar que es la revision por la direccion. Explicar los temas que debe recoger la revision de la direccion para cumplir con la norma.
 10. Piramide de Maslow, explicar y relacionar con un criterio del modelo EFQM.
 
 > Maslow formula en su teoria una jerarquia de necesidades humanas y defiende que conforme se satisfacen las necesidades mas fisiologicas, los seres humanos desarrollan necesidades y deseos mas elevados como la autorrealizacion. Este concepto se puede asociar al criterio de Personas del modelo EFQM, que habla de la satisfaccion de las personas dentro de la organizacion.

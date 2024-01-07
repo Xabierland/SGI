@@ -214,39 +214,87 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 ### 3.2 Criterios
 
 * Liderazgo
-  * a) Los lideres establecen y comunican una clara orientación estratégica, logran unir a sus colaboradores y hacen posibles sus objetivos
-    * Trasmiten la misión visión y los valores
-    * Promueven valores y son modelo de referencia, de integridad y comportamiento ético
-    * Tienen un comportamiento etico y responsable
-    * Desarrollan una cultura de liderazgo compartido
-  * b) Siguen la evolución de la gestión con un conjunto equilibrado de resultados, proporcionando a los grupos de interés lleve un conjunto de prioridades a corto y largo plazo
-    * Desarrollan y mejoran el sistema de gestión de la organización que incluye evaluar los resultados para mejorar el rendimiento futuro y proponer soluciones sostenibles a los grupos de interés
-    * Fundamentar las decisiones en información fiable basada en datos y conocimientos disponibles para interpretar el actual y deducibles de los procesos actuales.
-    * Responden de su gestión ante los grupos de interés
-  * c) Los lideres conocen los grupos de interes externos y desarrollan enfoques para entender, anticipar y dar respuesta a sus distintas expectativas y necesidades
-    * Desarrollan iniciativas para implicar a partners, clientes y sociedad en la innovacion.
-    * Utilizan la innovacion para mejorar la reputacion e imagen de la organizacion y atraer nuevos clientes, partners y talentos.
-    * Identificar acuerdos estrategicos y operativos para la organizacion
-    * Asegurar la transparencia en la informacion a los grupos de interes incluidos los organos del gobierno
-  * d) Los lideres son fruto de inspiracion para una persona y crean a todos los niveles una cultura empresarial de mejora implicacion perseveracion y responsabilidad
-    * Fomentar una nueva cultura de nuevas ideas y nuevos modos de pensar para implusar la industria y desarrollar a la organizacion
-    * Apoyar a las personas para que hagan realidad sus ideas
-    * Fomentar la igualdad de opertunidades y la diversidad
-  * e) Los lideres comprenden los fenomenos internos y externos que impulsan el cambio en una organizacion
-    * Demuestran su capacidad para tomar decisiones fundamentadas y operativas basadas en informacion dispnible, su experiencia previa y el analisis de impacto de sus decisiones
-    * Son flexibles revisan y adaptan y corrigen el rumbo de la organizacion caundo es necesario inpirando confianza en todo momento
-    * Implican a todos los grupos de interes y se esfuerzan por lograr su compromiso buscando su contribucion al exito de la organizacion con la introduccion de los cambios necesario
-    * Asignan recursos segun la necesidades a largo plazo para asegurar, cuando la competitividad es segura, que la organizacion sea y se mantenga competitiva.
+  * Definicion
+    * Las organizaciones excelentes tienen lideres que dan forma al futuro y crean un entorno interno que permite a los colaboradores alcanzar los objetivos de la organizacion.
+  * Subcriterios
+    * a) Los lideres establecen y comunican una clara orientación estratégica, logran unir a sus colaboradores y hacen posibles sus objetivos
+      * Trasmiten la misión visión y los valores
+      * Promueven valores y son modelo de referencia, de integridad y comportamiento ético
+      * Tienen un comportamiento etico y responsable
+      * Desarrollan una cultura de liderazgo compartido
+    * b) Siguen la evolución de la gestión con un conjunto equilibrado de resultados, proporcionando a los grupos de interés lleve un conjunto de prioridades a corto y largo plazo
+      * Desarrollan y mejoran el sistema de gestión de la organización que incluye evaluar los resultados para mejorar el rendimiento futuro y proponer soluciones sostenibles a los grupos de interés
+      * Fundamentar las decisiones en información fiable basada en datos y conocimientos disponibles para interpretar el actual y deducibles de los procesos actuales.
+      * Responden de su gestión ante los grupos de interés
+    * c) Los lideres conocen los grupos de interes externos y desarrollan enfoques para entender, anticipar y dar respuesta a sus distintas expectativas y necesidades
+      * Desarrollan iniciativas para implicar a partners, clientes y sociedad en la innovacion.
+      * Utilizan la innovacion para mejorar la reputacion e imagen de la organizacion y atraer nuevos clientes, partners y talentos.
+      * Identificar acuerdos estrategicos y operativos para la organizacion
+      * Asegurar la transparencia en la informacion a los grupos de interes incluidos los organos del gobierno
+    * d) Los lideres son fruto de inspiracion para una persona y crean a todos los niveles una cultura empresarial de mejora implicacion perseveracion y responsabilidad
+      * Fomentar una nueva cultura de nuevas ideas y nuevos modos de pensar para implusar la industria y desarrollar a la organizacion
+      * Apoyar a las personas para que hagan realidad sus ideas
+      * Fomentar la igualdad de opertunidades y la diversidad
+    * e) Los lideres comprenden los fenomenos internos y externos que impulsan el cambio en una organizacion
+      * Demuestran su capacidad para tomar decisiones fundamentadas y operativas basadas en informacion dispnible, su experiencia previa y el analisis de impacto de sus decisiones
+      * Son flexibles revisan y adaptan y corrigen el rumbo de la organizacion caundo es necesario inpirando confianza en todo momento
+      * Implican a todos los grupos de interes y se esfuerzan por lograr su compromiso buscando su contribucion al exito de la organizacion con la introduccion de los cambios necesario
+      * Asignan recursos segun la necesidades a largo plazo para asegurar, cuando la competitividad es segura, que la organizacion sea y se mantenga competitiva.
 * Politica y Estrategia
-  * a) La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y de los grupos externos.
-  * b) La estrategia se basa en comprender el rendimiento interno
+  * Definicion
+    * Implantan su mision y mision desarrollando una estrategia basada en los grupos de interes
+  * Subcriterios
+    * a) La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y de los grupos externos.
+    * b) La estrategia se basa en comprender el rendimiento interno
+    * c) La estrategia y sus politicas se desarrollan, revisan y actualizan
+    * d) La estrategia y sus politicas de apoyo se comunican, implantan y supervisan
 * Personas
+  * Definicion
+    * Valorar a las personas una cultura del trabajo que permita lograr a las personas y organizacion sus objetivos. Desarrollar las capacidades de las personas y su involucracion en la organizacion.
+  * Subcriterios
+    * a) Los planes de gestion de las personas apoyan la estrategia de la organizacion
+    * b) Se desarrolla el conocimiento y las capacidades de las personas de la organizacion
+    * c) Las personas estan alineadas con las necesidades de la organizacion, implicadas y asumen su responsabilidad
+    * d) Las personas se comunican eficazmente en toda la organizacion
+    * e) Recompensa, reconocimiento y atencion a las personas de la organizacion
 * Alianzas y Recursos
+  * Definicion
+    * Planificar y gestionar las alianzas externas, proveedores y recursos internos para apoyar la estrategia y sus politicas. Gestionar eficazmente su impacto social y ambiental.
+  * Subcriterios
+    * a) Gestrion de partners y proveedores para obtener un beneficio sostenible
+    * b) Gestion de los recursos economicos y financieros para asegurar un exito sostenido
+    * c) Gestion sostenible de los edificios, equipos, materiales y recursos naturales
+    * d) Gestion de la tecnologia para hacer realidad la estrategia
+    * e) Gestion de la informacion y del conocimiento para apoyar una eficaz toma de decisiones y construir las capacidades de la organizacion.
 * Procesos, Productos y Servicios
+  * Definicion
+    * Diseñar, gestionar y mejorar los procesos, productos y servicios de la organizacion para generar valor para los grupos de interes
+  * Subcriterios
+    * a) Los procesos se diseñan y gestionan a fin de optimizar el valor para los grupos de interes
+    * b) Los productos y servicios se desarrollan para dar una valor optimo a los clientes
+    * c) Los productos y servicios se promocionan y ponen en el mercado eficazmente
+    * d) Los productos y servicios se producen distribuyen y se gestionan
+    * e) Las relaciones con los clientes se gestionan y mejoran
 * Resultados en los clientes
+  * Definicion
+  * Subcriterios
+    * a) Percepciones
+    * b) Indicadores de rendimiento
 * Resultados en las personas
+  * Definicion
+  * Subcriterios
+    * a) Percepciones
+    * b) Indicadores de rendimiento
 * Resultados en la sociedad
+  * Definicion
+  * Subcriterios
+    * a) Percepciones
+    * b) Indicadores de rendimiento
 * Resultados clave
+  * Definicion
+  * Subcriterios
+    * a) Resultados estategicos clave
+    * b) Indicadores clave del rendimiento de la organizacion
 
 ## 4. Equipos de mejora
 
@@ -667,6 +715,34 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * Mejor identificacion de problemas
 
 ## 9. ISO 9001 - 2015
+
+### 9.1 Claves de implantacion
+
+1. Capacidad de proporcionar productos y servicios que satisfagan a los clientes.
+2. Facilitar oportunidades de mejorar la satisfaccion del cliente.
+3. Enfocarse en los procesos y la mejora continua.
+4. Abordar los riegos y las oportunidades.
+5. Tener un sistema de gestion de calidad capaz.
+
+### 9.2 Principios de gestion de calidad
+
+1. Enfoque al cliente
+2. Liderazgo
+3. Compromiso de las personas
+4. Enfoque a procesos
+5. Mejora
+6. Toma de decisiones basadas en datos
+7. Gestion de las relaciones
+
+### 9.3 Mejora continua
+
+![image](https://www.researchgate.net/publication/318874517/figure/fig2/AS:523171641204736@1501745247423/Figura4-Modelo-de-un-Sistema-de-Gestion-de-la-Calidad-basado-por-Procesos-22-Esta.png)
+
+### 9.4 Documentacion de los procesos
+
+* Informacion
+* Politicas estrategicas
+* Manual 
 
 ## 10. ISO 14001 - 2004
 
