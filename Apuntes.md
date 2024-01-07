@@ -479,7 +479,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 * Ventas
 * Segmentacion ventas
-  * Productos y margenes 
+  * Productos y margenes
 * Clientes y su segmentacion
   * ABC...
   * Geografica
