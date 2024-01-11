@@ -714,6 +714,10 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
   * Mejor conocimiento del puesto
   * Mejor identificacion de problemas
 
+### 8.5 Video
+
+[Metodología - | 5S EUSKALIT |](https://www.youtube.com/watch?v=wMhxA0CCcds)
+
 ## 9. ISO 9001 - 2015
 
 ### 9.1 Claves de implantacion
