@@ -57,14 +57,41 @@
 ### Desarrollar
 
 1. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
+
+>
+
 2. Definir analisis DAFO y describir lo que es Benchmarking.
+
+>
+
 3. Diferencias entre los conceptos de calidad, control de calidad, aseguramiento de la calidad y el concepto del modelo EFQM.
+
+>
+
 4. En el modelo EFQM, explicar el criterio personas y dentro del criterio elegir uno de los subcriterios para desarrollar.
+
+>
+
 5. Citar los conceptos fundamentales de la excelencia y elegir unop para desarrollar.
+
+>
+
 6. Uno de los requisitos que recoge la ISO 9001:2015 es la necesidad de realizar revision por la direccion, citar las entradas o aspectos que debe recoger esa revision por la direccion.
+
+>
+
 7. Dentro de un sistema de gestion medioambiental explicar que es aspecto e impacto, describir como se evaluan esos aspectos.
+
+>
+
 8. Definir proceso, describir los tres tipos de procesos.
+
+> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes. Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico. Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos.
+
 9. Entre los documentos de los sistemas de calidad, definir manual de calidad, procedimiento, instruccion tecnica y registro.
+
+>
+
 10. Definir dentro de la OHSAS 18001:1999 planificacion de la identificacion de peligros, de la evaluacion de riesgos y del control de riesgos.
 
 ## Examen 27/06/2019
@@ -72,22 +99,40 @@
 ### Desarrollar
 
 1. Explicar como se realiza la planificacion estrategica de una empresa, fases y desarrollo. Definir y explicar para que sirve un DAFO.
+
+>
+
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
+
+>
+
 3. En el modelo EFQM explicar el criterio alianzas y recursos y desarrollar uno de sus subcriterios.
+
+>
+
 4. Metodologia 5S, para que sirve y desarrolar frases para la implantacion de un Proyecto 5S.
 
 > Organizacion, orden, limpieza, control visual y disciplina.
 
 5. En la norma ISO 9001-2015, explicar que es la auditoria interna y como se lleva a cabo, requisitos y caracteristicas.
+
+>
+
 6. En concepto de caliad se baso durante la primera mitad del siglo XX en el "control de calidad" de producto. ¿que dos elementos relacionados con la organizacion se desarrollaron en los Estados Unidos de America y dieron orgien a ese concepto de calidad?
 
 > Taylos con la division del trabajo y Ford con la cadena de montaje.
 
 7. Definir dentro de la OHSAS 18001:1999 riesgo, seguridad y riesgo tolerable.
+
+> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento. Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad. Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
+
 8. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
+
+>
+
 9. Gestión de las compras, explicar porque es importante en la empresas industriales y relacinarlo con un criterio del modelo EFQM.
 
-> 
+>
 
 10. Definir el concepto actual de calidad al principio del siglo XXI.
 
@@ -98,20 +143,41 @@
 ### Desarrollar
 
 1. Explicar como se realiza la planificacion estrategica de una empresa, fases, conceptos y desarrollo. Definir y explicar para que sirve un DAFO.
+
+>
+
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
+
+>
+
 3. En el modelo EFQM explicar el criterio liderazgo y de sus subcriterios elegir uno y desarrollarlo.
+
+>
+
 4. Explicar el concepto de aseguramiento de la calidad y su conexion con el concepto clasico de control de calidad.
+
+>
+
 5. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
 
 > Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente. Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
 
 6. Definir dentro dela OHSAS 18001:1999 riesgo, seguridad y riesgo tolerable.
+
+> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento. Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad. Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
+
 7. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
 
 > Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social. Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos. Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
 
 8. Procesos definicion, tipos de procesos y definicion de los mismos. Relacionar con el modelo EFQM.
+
+> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes. Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico. Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos. Los procesos estan estrechamente relacionado con el criterio de procesos, productos y servicios del modelo EFQM.
+
 9. Dentro de la norma ISO 9001:2015, explicar que es la revision por la direccion. Explicar los temas que debe recoger la revision de la direccion para cumplir con la norma.
+
+>
+
 10. Piramide de Maslow, explicar y relacionar con un criterio del modelo EFQM.
 
 > Maslow formula en su teoria una jerarquia de necesidades humanas y defiende que conforme se satisfacen las necesidades mas fisiologicas, los seres humanos desarrollan necesidades y deseos mas elevados como la autorrealizacion. Este concepto se puede asociar al criterio de Personas del modelo EFQM, que habla de la satisfaccion de las personas dentro de la organizacion.
