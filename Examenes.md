@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD028 -->
 <!-- markdownlint-disable MD029 -->
 # Preguntas de examen
 
@@ -16,27 +17,39 @@
 
 3. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
 
-> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente. Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
+> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente.
+
+> Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
 
 4. Herramientas para desarrollar trabajos en equipo, citar y explicar.
 
->
+> Lluvia de ideas: Generar ideas una detras de otra sin parar.
+
+> Diagrama causa-efecto: Identificar las causas de un problema y agruparla por categorias para despues dividirlas en subcausas. (Como si fuera las espinas de un pez)
+
+> Diagrama de pareto: Mejorar los pequeños grupos que tienen mayor impacto en el proceso.
+
+> Gestion con datos: Tomar datos y analizarlos para sacar indicadores y mejorar el proceso.
 
 5. Explicar como se realiza la planificacion estrategica de una empresa, fases y desarrollo.
 
->
+> La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y el entorno externo. Hay cinco fases en la planificacion estrategica: Recoger necesidades e expectativas, idenficar, comprender y anticipar el entorno externo y las tendencias economicas, comprender y anticipar cambios politico legales en el corto y largo plazo y analizar las oportunidades y amenazas.
 
 6. En el modelo EFQM explicar el criterio Alianzas y Recursos y desarrollar uno de sus subcriterios.
 
->
+> Planificar y gestionar las alianzas externas, proveedores y recursos internos para apoyar la estrategia y sus politicas. Gestionar eficazmente su impacto social y ambiental.
 
-7. Uno de los requisitos que recoge la ISO 9011:2015 es la necesidad de realizar revision por la direccion, citar las entradas o aspectos que debe recoger esa revision por la direccion.
+7. Uno de los requisitos que recoge la ISO 9001:2015 es la necesidad de realizar revision por la direccion, citar las entradas o aspectos que debe recoger esa revision por la direccion.
 
->
+> La revision por la direccion se basa en los resultados de las auditorias, retoralimentacion del cliente, desempeño de procesos y conformidad de productos, estado de las acciones correctivas y preventivas, seguimiento de revisiones de direccion previas, cambios en el sistema de calidad, recomendaciones para la mejora, acciones para mejorar el sistema de gestion y sus procesos, mejora del producto en relacion con los requisitos de los clientes y acciones sobre la necesidad de recursos.
 
 8. Definir proceso, proceso de pilotaje, proceso operativos y procesos de apoyo.
 
-> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes. Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico. Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos.
+> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes.
+
+> Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico.
+
+> Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos.
 
 9. Ciclo PDCA, explicar.
 
@@ -44,11 +57,13 @@
 
 10. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
->
+> 
 
-11. Gestion de las compras, explicar porque es importante en la empresas industriales y relacinarlo con un criterio del modelo EFQM.
+11. Gestión de las compras, explicar porque es importante en la empresas industriales y relacinarlo con un criterio del modelo EFQM.
 
->
+> La gestion de las compras es importante en las empresas industriales porque es la que se encarga de la adquisicion de los materiales necesarios para la produccion de los productos o servicios de la empresa, un escalon mas de la cadena de valor, comprar unos buenos materiales es esencial para la calidad del producto y por tanto para la satisfaccion de los grupos de interes.
+
+> La gestion de las compras esta asociado al criterio de Alianzas y Recursos del modelo EFQM y especialmente al subcriterio de Partners y proveedores.
 
 12. Desarrolla un tema del curso a tu eleccion.
 
@@ -62,7 +77,9 @@
 
 2. Definir analisis DAFO y describir lo que es Benchmarking.
 
->
+> DAFO: Analisis de las caracteristicas internas y externas de una empresa mediante una grafica o matriz cuadrada.
+
+> Benchmarking: El proceso continuo por el cual se toma como referencia los productos, servicio o procesos de trabajo de las empresas lideres para compararlos con los de tu propia empresa y posteriormente realizar mejoras e implementarlas.
 
 3. Diferencias entre los conceptos de calidad, control de calidad, aseguramiento de la calidad y el concepto del modelo EFQM.
 
@@ -86,7 +103,11 @@
 
 8. Definir proceso, describir los tres tipos de procesos.
 
-> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes. Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico. Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos.
+> Proceso: Actividades que añaden valor a un producto o servicio mediante aportaciones y otorgan productos o servicios a los clientes.
+
+> Proceso de pilotaje: Proceso que se vinculado a la direcciones de la empresa, su adaptacion al entorno y su punto de vista estrategico.
+
+> Procesos operativos: Procesos de realizacion de los productos o servicios de la empresa. Procesos de apoyo: Procesos que dan soporte a los procesos operativos.
 
 9. Entre los documentos de los sistemas de calidad, definir manual de calidad, procedimiento, instruccion tecnica y registro.
 
@@ -94,13 +115,21 @@
 
 10. Definir dentro de la OHSAS 18001:1999 planificacion de la identificacion de peligros, de la evaluacion de riesgos y del control de riesgos.
 
+> Identificacion de peligros: 
+
+> Evaluacion de riesgos: 
+
+> Control de riesgos: 
+
 ## Examen 27/06/2019
 
 ### Desarrollar
 
 1. Explicar como se realiza la planificacion estrategica de una empresa, fases y desarrollo. Definir y explicar para que sirve un DAFO.
 
->
+> La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y el entorno externo. Hay cinco fases en la planificacion estrategica: Recoger necesidades e expectativas, idenficar, comprender y anticipar el entorno externo y las tendencias economicas, comprender y anticipar cambios politico legales en el corto y largo plazo y analizar las oportunidades y amenazas.
+
+> DAFO: Analisis de las caracteristicas internas y externas de una empresa mediante una grafica o matriz cuadrada.
 
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
@@ -124,7 +153,11 @@
 
 7. Definir dentro de la OHSAS 18001:1999 riesgo, seguridad y riesgo tolerable.
 
-> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento. Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad. Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
+> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento.
+
+> Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad.
+
+> Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
 
 8. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
 
@@ -132,7 +165,9 @@
 
 9. Gestión de las compras, explicar porque es importante en la empresas industriales y relacinarlo con un criterio del modelo EFQM.
 
->
+> La gestion de las compras es importante en las empresas industriales porque es la que se encarga de la adquisicion de los materiales necesarios para la produccion de los productos o servicios de la empresa, un escalon mas de la cadena de valor, comprar unos buenos materiales es esencial para la calidad del producto y por tanto para la satisfaccion de los grupos de interes.
+
+> La gestion de las compras esta asociado al criterio de Alianzas y Recursos del modelo EFQM y especialmente al subcriterio de Partners y proveedores.
 
 10. Definir el concepto actual de calidad al principio del siglo XXI.
 
@@ -144,7 +179,9 @@
 
 1. Explicar como se realiza la planificacion estrategica de una empresa, fases, conceptos y desarrollo. Definir y explicar para que sirve un DAFO.
 
->
+> La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y el entorno externo. Hay cinco fases en la planificacion estrategica: Recoger necesidades e expectativas, idenficar, comprender y anticipar el entorno externo y las tendencias economicas, comprender y anticipar cambios politico legales en el corto y largo plazo y analizar las oportunidades y amenazas.
+
+> DAFO: Analisis de las caracteristicas internas y externas de una empresa mediante una grafica o matriz cuadrada.
 
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
@@ -160,15 +197,25 @@
 
 5. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
 
-> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente. Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
+> Aspecto: elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente.
+
+> Impacto: cualquier cambio en el medio ambiente, ya sea adverso o beneficioso, total o parcialmente resultante de los aspectos ambientales de una organizacion.
 
 6. Definir dentro dela OHSAS 18001:1999 riesgo, seguridad y riesgo tolerable.
 
-> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento. Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad. Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
+> Riesgo: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento.
+
+> Seguridad: Condicion en la que se minimizan los riesgos para las personas y la propiedad.
+
+> Riesgo tolerable: Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST.
 
 7. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
 
-> Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social. Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos. Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
+> Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social.
+
+> Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos.
+
+> Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
 
 8. Procesos definicion, tipos de procesos y definicion de los mismos. Relacionar con el modelo EFQM.
 
@@ -220,7 +267,9 @@
 
 3. Explicar y definir la piramide de Maslow. Asociar este concepto a un criterio del modelo EFQM.
 
-> Maslow formula en su teoria una jerarquia de necesidades humanas y defiende que conforme se satisfacen las necesidades mas fisiologicas, los seres humanos desarrollan necesidades y deseos mas elevados como la autorrealizacion. Este concepto se puede asociar al criterio de Personas del modelo EFQM, que habla de la satisfaccion de las personas dentro de la organizacion.
+> Maslow formula en su teoria una jerarquia de necesidades humanas y defiende que conforme se satisfacen las necesidades mas fisiologicas, los seres humanos desarrollan necesidades y deseos mas elevados como la autorrealizacion.
+
+> Este concepto se puede asociar al criterio de Personas del modelo EFQM, que habla de la satisfaccion de las personas dentro de la organizacion.
 
 4. En la norma ISO 9001-2015, explicar los aspectos que tiene en cuenta la revision por la direccion.
 
@@ -228,12 +277,22 @@
 
 5. El concepto de Calidad se baso durante la primera mitad del siglo XX en el "control de calidad" de producto. ¿que dos elementos relacionados con la organizacion se desarrollaron en los Estados Unidos de America y dieron orgien a ese concepto de calidad?
 
-> Taylos con la division del trabajo y Ford con la cadena de montaje.
+> Frederick Taylos con la division del trabajo y Henry Ford con la cadena de montaje haciendo mayores lotes en menores tiempos.
 
 6. Definir: producto no conforme, incidencia y reclamacion. Describir las acciones a realizar con los productos no conformes.
 
->
+> Producto no conforme: Producto que no cumple con los requisitos especificados.
+
+> Incidencia: No conformidad detectada antes de la entrega del producto.
+
+> Reclamacion: No conformidad detectada despues de la entrega del producto.
+
+> Acciones a realizar: Identificar el producto, evaluar el impacto, determinar las causas, determinar las acciones correctivas, implementar las acciones correctivas, verificar la eficacia de las acciones correctivas y registrar los resultados.
 
 7. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
 
-> Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social. Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos. Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
+> Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social.
+
+> Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos.
+
+> Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.

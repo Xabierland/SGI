@@ -746,7 +746,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 * Informacion
 * Politicas estrategicas
-* Manual 
+* Manual
 
 ## 10. ISO 14001 - 2004
 
