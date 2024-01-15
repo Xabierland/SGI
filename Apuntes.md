@@ -14,7 +14,7 @@
 7. [Liderazgo](#7-liderazgo)
 8. [Formacion de las 5 ESES](#8-formacion-de-las-5-eses)
 9. [*ISO 9001 - 2015](#9-iso-9001---2015)
-10. [*ISO 14001 - 2004](#10-iso-14001---2004)
+10. [ISO 14001 - 2004](#10-iso-14001---2004)
 11. [ISO 14001 - 2015](#11-iso-14001---2015)
 12. [*ISO 45001](#12-iso-45001)
 13. [*OHAS 18000](#13-ohas-18000)
@@ -750,6 +750,147 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 10. ISO 14001 - 2004
 
+### 10.1 Definiciones
+
+* Medio ambiente
+  * Entorno en el que una organizacion opera, incluyendo aire, agua, suelo, recursos naturales, flora, fauna, seres humanos y sus interrelaciones.
+* Desarrollo sostenible
+  * Aquel desarrolo que satisfaga las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades.
+* Aspecto medioambiental
+  * Elemento de las actividades, productos o servicios de una organizacion que puede interactuar con el medio ambiente.
+* Impacto medioambiental
+  * Efecto producido sobre el medio ambiente.
+
+### 10.2 Actitudes de la industria
+
+* No activa
+  * Negarse a reconocer la existencia de problemas medioambientales
+* Reactiva
+  * No toman decisiones hasta que se ven obligados por la ley
+* Proactiva
+  * Se anticipan a los problemas y toman medidas para evitarlos
+
+### 10.3 Mejoras de un SGMA
+
+* Mejora relaciones
+  * Contratos publicos
+  * Mejora imagen
+* Aumenta competitividad
+  * Nuevos mercados
+* Reduce costes
+  * Optimiza procesos
+  * Evita sanciones
+  * Evita indemnizaciones
+  * Evita riesgos medioambientales
+* Financiacion
+  * Mejor credito
+  * Ayudas publicas
+  * Menores primas de seguros
+* Anticipacion a futuras normativas
+  * Prepara a la empresa para futuras normativas
+* Mejora continua
+
+### 10.4 Acciones
+
+* Cumplir la legislacion medioambiental
+* Tomar medidas medioambientales
+* Implantar un SGMA
+
+### 10.5 ISO 14001
+
+* ¿Que es?
+  * Norma voluntaria auditable y certificable
+  * Guia para el comportamiento medioambiental basado en la legislacion, normas y mejora continua
+  * Capacita a la organizacion a establecer y evaluar la efectividad de los procedimientos para identificar y controlar los aspectos medioambientales
+* ¿Para que sirve?
+  * Cumplir la legislacion
+  * Controlar aspectos medioambientales
+  * Optimizar recursos y procesos
+  * Conseguir una mejora continua
+  * Integrar el medioambiente como un factor mas de la gestion
+* ¿Dificultades?
+  * Inversion economica
+  * Faltan recursos humanos
+  * Constancia para mantener el SGMA
+  * Esfuerzo de todas las partes.
+* Implantacion
+  * Realizacion de la evaluacion inicial
+  * Establecer un plan teniendo en cuenta los requisitos legales
+  * Elaborar la documentacion
+  * Implantarla con formacion y sensibilizacion
+  * Auditarla
+  * Certificarla
+* Mejora continua
+  * Politica medioambiental
+  * Planificacion
+  * Implantacion y operacion
+  * Verificacion
+  * Revision por la direccion
+* Planificacion
+  * Identificar aspectos medioambientales
+  * Determinar aspectos medioambientales significativos
+    * Criterios
+      * Magnitud - Valor absoluto del impacto, cantidad, masa, volumen, caudal, etc...
+      * Intensidad - En funcion de la peligrosidad, duracion y frecuencia del impacto
+      * Naturaleza - Tipo de impacto
+      * Capacidad de recuperacion
+      * Extension
+      * Limites legales
+
+### 10.6 Requisitos legales
+
+* Establecer objetivos y metas
+* Programa de gestion medioambiental
+* Estructura y responsabilidades
+  * Documentar las funciones, responsabilidades y autoridades de las personas implicadas
+  * Estas personas deben dirigir, ejecutar o verificar las acciones que tengan que ver con el medio ambiente
+* Formacion, sensibilizacion y competencias
+  * Procedimientos escritos
+  * Identificar las necesidades de formacion
+  * Registrar la formacion
+  * Tener en cuenta la formacion de los subcontratistas
+  * Formar para emergencias
+* Comunicacion
+  * Sugerencias y peticiones de informacion
+  * Quejas, peticiones de informacion y reclamaciones
+* Control de la documentacion
+  * Escribir como hacer los controles
+  * Documentos:
+    * Manual SGMA
+    * Procedimientos
+    * Instrucciones
+    * Plan de medio ambiente
+    * Proyecto
+    * Legislacion
+* Control operacional
+  * Redactar procedimientos
+* Control operacional
+  * En obras
+    * Plan de gestion medioambiental
+    * Gestion de residuos
+    * Comportamiento medioambiental del personal en la obra
+    * Evaluacion de proveedores
+  * En oficinas
+    * Aspectos medioambientales
+    * Gestion de residuos
+* Planes de emergencia y capacidad de respuesta
+  * Hacer simulacros
+  * Plan de emergencia
+* Comprobaciones y acciones correctoras
+  * Seguimiento y medicion
+    * Inspeccionar y medir las operaciones y actividades.
+  * No conformidad, accion correctora y accion preventiva
+  * Registros
+  * Auditorias SGMA
+  * Revision por la direccion
+    * Complimiento de objetivos
+    * No conformidades y acciones correctoras
+    * Resultados auditorias realizadas
+    * Aspectos medioambientales significativos
+    * Comunicacion interna y externa
+    * Cambios en politica, objetivos y otros elementos y conclusiones en relacion al SGMA
+    * Modificaciones en la legislacion aplicables
+
 ## 11. ISO 14001 - 2015
 
 ### 11.1 Contexto de la organizacion
@@ -845,5 +986,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Oportunidades de mejora
 
 ## 12. ISO 45001
+
+NO HAY APUNTES
 
 ## 13. OHAS 18000
