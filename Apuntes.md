@@ -720,7 +720,35 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 9. ISO 9001 - 2015
 
-### 9.1 Claves de implantacion
+### 9.1 Principios de gestion de calidad
+
+* Enfoque al cliente
+* Liderazgo
+* Compromiso de las personas
+* Enfoque a procesos
+  * Organizar actividades
+  * Identificarcion y gestion
+  * Control y mejora
+* Mejora
+* Toma de decisiones basadas en datos
+* Gestion de las relaciones
+
+### 9.2 Documentacion de los procesos
+
+* Manual de calidad
+  * Resumen del sistema de gestion
+* Registros
+  * 
+
+### 9.3 Liderazgo
+
+### 9.4 Planificacion
+
+### 9.5 Apoyo
+
+### 9.6 Gestion de personas
+
+### 9.2 Claves de implantacion
 
 1. Capacidad de proporcionar productos y servicios que satisfagan a los clientes.
 2. Facilitar oportunidades de mejorar la satisfaccion del cliente.
@@ -728,25 +756,13 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 4. Abordar los riegos y las oportunidades.
 5. Tener un sistema de gestion de calidad capaz.
 
-### 9.2 Principios de gestion de calidad
-
-1. Enfoque al cliente
-2. Liderazgo
-3. Compromiso de las personas
-4. Enfoque a procesos
-5. Mejora
-6. Toma de decisiones basadas en datos
-7. Gestion de las relaciones
-
 ### 9.3 Mejora continua
 
 ![image](https://www.researchgate.net/publication/318874517/figure/fig2/AS:523171641204736@1501745247423/Figura4-Modelo-de-un-Sistema-de-Gestion-de-la-Calidad-basado-por-Procesos-22-Esta.png)
 
-### 9.4 Documentacion de los procesos
 
-* Informacion
-* Politicas estrategicas
-* Manual
+
+### 9.7
 
 ## 10. ISO 14001 - 2004
 
