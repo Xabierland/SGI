@@ -738,7 +738,6 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Manual de calidad
   * Resumen del sistema de gestion
 * Registros
-  * 
 
 ### 9.3 Liderazgo
 

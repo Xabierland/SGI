@@ -287,7 +287,7 @@
 
 4. ¿Cuales son las ventajas de la aplicacion de una buena Gestion Ambiental? ¿Es realmente importante para conseguir un Sistema Integrado de Gestion? Justifica las respuestas.
 
->
+> 
 
 5. Explicar en que consiste el ciclo PDCA. Representar graficamente.
 
