@@ -760,8 +760,6 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ![image](https://www.researchgate.net/publication/318874517/figure/fig2/AS:523171641204736@1501745247423/Figura4-Modelo-de-un-Sistema-de-Gestion-de-la-Calidad-basado-por-Procesos-22-Esta.png)
 
-
-
 ### 9.7
 
 ## 10. ISO 14001 - 2004
@@ -1006,3 +1004,95 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 NO HAY APUNTES
 
 ## 13. OHAS 18000
+
+### Antecendentes
+
+### Objeto y campo de aplicacion
+
+* Requisitos para un sistema degestion de la seguridad y salud en el trabajo
+* Establecer un sistema de gestion de la SST para eliminar o minimizar el riesgo asociado a sus actividades.
+* Implementar, mantener y mejorar continuamente el sistema de gestion de la SST
+* Asegurarse de que cumple con la politica de SST establecida por la propia organizacion.
+* Asegurarse de que cumple con la legislacion y normativa aplicable.
+* Demostrar dicha informacion a terceros
+* Lograr certificaciones de su sistema de gestion de la SST por una organizacion externa
+* Realizar una autoevaluacion y declaracion de conformidad con esta norma.
+
+### Publicaciones de referencia
+
+* OHSAS 18002:2000
+  * Directrices para la implementacion de OHSAS 18001
+* BS 8800:1996
+  * Directrices para los sistemas de gestion de la seguridad y salud en el trabajo
+
+### Terminos y definiciones
+
+* Accidente
+  * Suceso no deseado que da lugar a lesiones, enfermedades o muerte
+* Auditoria
+  * Examen sistematico para determinar si se cumplen con lo planificado y si se implementa de forma eficaz, legal y de acuerdo a los objetivos
+* Mejora continua:
+  * Proceso de intesificacion del sistema de la SST
+* Peligro:
+  * Fuente, situacion o acto con potencial de daño en terminos de lesiones o enfermedades
+* Identificacion del peligro:
+  * Reconocimiento de que existe un peligro y la definicion de sus caracteristicas
+* Incidente:
+  * Suceso no deseado que da lugar a lesiones, enfermedades o muerte
+* Parte interesada:
+  * Persona o grupo que se ven afectados por la SST
+* No conformidad:
+  * Desviacion de las pautas de trabajo que podrian dar lugar directa o indiretamente a lesiones, enfermedades o daños a la propiedad, o a la combinacion de estos
+* Objetivos
+  * Metas en terminos de la SST
+* Seguridad y salud en el trabajo (SST):
+  * Condiciones y factores que afectan a la salud y seguridad de los trabajadores
+* Sistema de gestion de la SST:
+  * Parte del sistema de gestion global que facilita la gestion de los riesgos de la SST asociados a las actividades de la organizacion
+* Organizacion:
+  * Compañia, corporacion, firma, empresa, institucion o asociacion, o parte o combinacion de estas, ya sea que opere de forma privada o publica
+* Desempeño:
+  * Resultados medibles del sistema de gestion de la SST, relacionados con el control de los riesgos de la SST, basados en la politica de la SST y los objetivos de la SST
+* Riesgo:
+  * Combinacion de la probabilidad de que ocurra un evento y sus consecuencias
+* Evaluacion de riesgos:
+  * Proceso de evaluar el riesgo asociado a una actividad, teniendo en cuenta las medidas de control existentes
+* Seguridad:
+  * Ausencia de riesgo de daño
+* Riesgo tolerable:
+  * Riesgo que se ha reducido a un nivel que puede ser aceptado por la organizacion, teniendo en cuenta sus obligaciones legales y su propia politica de SST
+
+### Elementos del sistema de gestion de la SST
+
+1. Politica de la SST
+2. Planificacion
+3. Implementacion y operacion
+4. Verificacion y accion correctiva
+5. Revision por la direccion
+
+#### Politica de la SST
+
+* Adecuarse a la naturaleza y magnitud de los riesgos de la organizacion
+* Incluir un compromiso de mejora continua.
+* Incluir un compromiso de cumplir con la legislacion y normativa aplicable
+* Estar documentada, implementada y mantenida
+* Comunicarse a todos los empleados con el proposito de que sean conscientes de su obligacion individual
+* Estar disponible para las partes interesadas
+* Revisarse periodicamente para asegurar que sigue siendo adecuada y apropiada para la organizacion
+
+#### Planificacion
+
+* Establecer y mantener procedimientos para la identificacion de peligros, evaluacion de riesgos y la implementacion de los controles necesarios
+* Tener en cuenta:
+  * Actividades rutinarias y no rutinarias
+  * Actividades del personal
+  * Lugar de trabajo
+* Como identificar los peligros
+  * Definir alcance naturaleza y cronograma de los mismos
+  * Prever 
+
+#### Implementacion y operacion
+
+* Se deben definir documentos y comunicar las funciones responsabilidades y autoridades de los empleados para que verifiquen que se cumplen los requisitos de la SST.
+* La responsabilidad de la SST recae sobre la direccion y debe proporcionar recuersos esenciales para el sistema de gestion de la SST
+* 

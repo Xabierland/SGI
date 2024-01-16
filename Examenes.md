@@ -13,7 +13,8 @@
 
 2. Dentro de la OHSAS 18001:1999, describir la gestion de peligros y riesgos.
 
->
+> Gestion de peligros: Identificar los peligros y evaluar los riesgos asociados a ellos.
+> Riesgos: Combinacion de la probabilidad de que ocurra un evento peligroso o dañino y las consecuencias de dicho evento.
 
 3. En un sistema de gestion medioambiental que cumple con la ISO 14001, definir aspectos e impacto.
 
@@ -138,11 +139,11 @@
 
 10. Definir dentro de la OHSAS 18001:1999 planificacion de la identificacion de peligros, de la evaluacion de riesgos y del control de riesgos.
 
-> Identificacion de peligros:
+> Identificacion de peligros: Identificar los peligros y evaluar los riesgos asociados a ellos.
 
-> Evaluacion de riesgos:
+> Evaluacion de riesgos: Determinar el riesgo para la salud y seguridad de los trabajadores.
 
-> Control de riesgos:
+> Control de riesgos: Eliminar los riesgos o reducirlos a un nivel tolerable.
 
 ## Examen 27/06/2019
 
@@ -156,7 +157,7 @@
 
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
->
+> 
 
 3. En el modelo EFQM explicar el criterio alianzas y recursos y desarrollar uno de sus subcriterios.
 
@@ -282,7 +283,7 @@
 
 3. El concepto de gestion de riesgos cobra gran importancia en las normas ISO de sistema de gestion integrada, explicar porque y desarrollar.
 
->
+> 
 
 4. ¿Cuales son las ventajas de la aplicacion de una buena Gestion Ambiental? ¿Es realmente importante para conseguir un Sistema Integrado de Gestion? Justifica las respuestas.
 
