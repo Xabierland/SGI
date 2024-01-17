@@ -10,7 +10,7 @@
 3. [Modelo EFQM](#3-modelo-efqm)
 4. [Equipos de mejora](#4-equipos-de-mejora)
 5. [Procesos](#5-procesos)
-6. [Extrategia](#6-extrategia)
+6. [Estrategia](#6-estrategia)
 7. [Liderazgo](#7-liderazgo)
 8. [Formacion de las 5 ESES](#8-formacion-de-las-5-eses)
 9. [*ISO 9001 - 2015](#9-iso-9001---2015)
@@ -624,7 +624,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
     * Apoyo de la direccion
       * Modo de relacion entre Proceso y la Direccion
 
-## 6. Extrategia
+## 6. Estrategia
 
 ### 6.1 Definicion
 
