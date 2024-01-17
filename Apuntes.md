@@ -18,6 +18,7 @@
 11. [ISO 14001 - 2015](#11-iso-14001---2015)
 12. [*ISO 45001](#12-iso-45001)
 13. [*OHAS 18000](#13-ohas-18000)
+14. [Shakelton](#14-shakelton)
 
 ## 1. Evolucion historica
 
@@ -245,56 +246,197 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
     * Implantan su mision y mision desarrollando una estrategia basada en los grupos de interes
   * Subcriterios
     * a) La estrategia se basa en comprender las necesidades y expectativas actuales y futuras de los grupos de interes y de los grupos externos.
+      * Las organizaciones excelentes recogen las necesidades y las expectativas de los grupos de interés incorporándolas al desarrollo y revisión de su estrategia y políticas de apoyo permaneciendo atentas a cualquier cambio.
+      * Identifican, comprenden y autentifican los avances en su entorno externo.
+      * Identifican, comprenden y anticipan indicadores externos y tendencias económicas de mercado y sociedad.
+      * Comprenden y anticipan el impacto a largo y corto plazo de lo cambios políticos, legales y normativos.
+      * Ven oportunidades y amenazas en la información externa.
     * b) La estrategia se basa en comprender el rendimiento interno
+      * Analizan transacciones de rendimiento operativo competencias claves y resultados financieros para comprender la capacidad actual y futura de la organización.
+      * Analizan los datos de los partners actuales y potenciales para comprobar la capacidad actual y futura
+      * Analizan datos e información disponible para determinar las nuevas tecnologías y modelos de gestión
+      * Comparan sus indicadores de rendimiento para comprender fortalezas y debilidades. (Benchmarking)
     * c) La estrategia y sus politicas se desarrollan, revisan y actualizan
+      * Crean y mantienen una estrategia y políticas para hacer realidad la misión y visión.
+      * Identifican y comprenden los resultados claves necesarios para alcanzar su misión y evalúan El Progreso hacia su misión y objetivos estratégicos.
+      * Adoptan mecanismos eficaces para entender futuros escenarios y gestionar riesgos estratégicos.
+      * Comprende que los factores claves que impulsan y desarrollan su actividad equilibrando las necesidades de la empresa y sus grupos de interés.
+      * Asegurar su sostenibilidad económica.
     * d) La estrategia y sus politicas de apoyo se comunican, implantan y supervisan
+      * Definen los resultados finales requeridos y sus indicadores de rendimiento.
+      * Establecen objetivos en función de la misión y la visión y comparan con otras organizaciones.
+      * Despliegan la estrategia y políticas de apoyo de forma sistemática para alcanzar el conjunto de los resultados equilibrando objetivos a corto y largo plazo.
+      * Deben lograr un equilibrio optimo entre eficacia y eficiencia.
+      * Alinean objetivos individuales y de equipo con los objetivos estratégicos de la organización asegurando que los individuos como los equipos están facultados para maximizar su contribución
+      * Comunican la estrategia y las políticas a los grupos de interés.
+      * Establecen objetivos claros de innovación y perfeccionamiento de su estrategia.
 * Personas
   * Definicion
     * Valorar a las personas una cultura del trabajo que permita lograr a las personas y organizacion sus objetivos. Desarrollar las capacidades de las personas y su involucracion en la organizacion.
   * Subcriterios
     * a) Los planes de gestion de las personas apoyan la estrategia de la organizacion
+      * Comprenden los resultados que deben alcanzar las personas con los objetivos estratégicos
+      * Alinean los planes de gestión de personal con la estrategia y la estructura de la organización
+      * Implican a los empleados y a sus representantes en el desarrollo y revisión de la estrategia, políticas y planes de gestión de las personas.
+      * Gestionan la selección, desarrollo de carreras movilidad y planes de sucesión con apoyo de políticas adecuadas para garantizar la equidad y la igualdad de oportunidades
+      * Utilizan encuestas para mejorar la estrategia de gestión de personas
     * b) Se desarrolla el conocimiento y las capacidades de las personas de la organizacion
+      * Desarrollar conocimiento y las capacidades de las personas
+      * Comprender las habilidades y competencias necesarias para alcanzar la misión, visión y los objetivos estratégicos
+      * Se aseguran de que los planes de formación ayudan a las personas a conseguir las habilidades y capacidades que la organización va a necesitar en el futuro.
+      * Alinean los objetivos individuales y de los equipos con los objetivos de la organización. Mejorándolos en su caso
+      * Evalúan y ayudan a las personas a mejorar y mantener su capacidad de empleo
+      * Se aseguran de que las personas dispongan de herramientas medios información y grado de delegación necesarios para maximizar su contribución.
     * c) Las personas estan alineadas con las necesidades de la organizacion, implicadas y asumen su responsabilidad
+      * Las personas están alineadas con las necesidades de las organizaciones implicadas y asumen su responsabilidad.
+      * Las personas están alineadas con la misión, visión y los objetivos estratégicos de la organización de forma individual y como equipo
+      * Crean una cultura en la que se desarrolla y valora la dedicación, habilidades, talentos y creatividad de las personas.
+      * Se aseguran de que las tengan una mentalidad abierta creativa e innovadora
+      * Crean una cultura de emprendedores que posibilita la innovación de la organización
+      * Implica a las personas en la revisión mejora y optimización continua de los procesos y equipos.
     * d) Las personas se comunican eficazmente en toda la organizacion
+      * Las personas se comunican eficazmente en toda la organización
+      * Comprenden las necesidades y expectativas de comunicación de las personas
+      * Desarrollan la estrategia, políticas, personas y canales de comunicación internos basados en las necesidades de la persona
+      * Se aseguran de que las personas comprenden la misión visión valores y objetivos de la organización
+      * Permiten y animan a compartir información en conocimiento y las mejores practicas logrando un dialogo en toda la organización.
     * e) Recompensa, reconocimiento y atencion a las personas de la organizacion
+      * Alinean los temas de remuneración, beneficios y otros temas laborales con la estrategia de la organización
+      * Adoptan enfoques que aseguran una adecuada conciliación entre la vida personal y laboral de las personas
+      * Aseguran y acogen la diversidad de las personas
+      * Aseguran un entorno seguro y saludable para las personas
+      * Fomentan una cultura de apoyo, colaboración y reconocimiento entre individuos y equipos
 * Alianzas y Recursos
   * Definicion
     * Planificar y gestionar las alianzas externas, proveedores y recursos internos para apoyar la estrategia y sus politicas. Gestionar eficazmente su impacto social y ambiental.
   * Subcriterios
     * a) Gestrion de partners y proveedores para obtener un beneficio sostenible
+      * Segmentan y diferencias a partners y proveedores en una con la estrategia de la organización
+      * Construyen una relación sostenible con partners y proveedores basada en la confianza, el respeto mutuo y la trasparencia.
+      * Establecen amplias redes con el fin de indicar oportunidades potenciales de alianzas
+      * Entienden las alianzas incluyen trabajar juntos para incrementar el valor a largo plazo
+      * Trabajan con sus partners para lograr beneficio mutuo y objetivos compartidos.
     * b) Gestion de los recursos economicos y financieros para asegurar un exito sostenido
+      * Desarrollan e implementan estrategias y procesos económicos, financieros en apoyo de la estrategia.
+      * Diseñan procesos de planificación, control y revisión económica-financiero a todos los niveles.
+      * Evalúan, seleccionan y validan las inversiones, desinversiones en activos tangibles e intangibles tomando en consideración sus efectos economicos, sociales y medio ambientales.
+      * Aseguran la identificación y la gestion de los riegos economicos-financieros generando una gran confianza en los grupos de interés.
+      * La planificación económica-financiera a corto plazo se adecua a los objetivos a largo plazo.
     * c) Gestion sostenible de los edificios, equipos, materiales y recursos naturales
+      * Desarrollan estrategias de apoyo a la gestión de edificios equipos y materiales
+      * Optimizan y gestionan el ciclo de vida y seguridad física de los activos tangibles: edificios, equipos y materiales
+      * Gestionan optimizan el impacto de sus operaciones sobre la salud pública, la seguridad y el medio ambiente.
+      * Miden y gestionan cualquier impacto negativo sobre las personas de la organización
+      * Adoptan objetivos ambiciones en gestión medioambiental a nivel local y global superando estándares globales.
     * d) Gestion de la tecnologia para hacer realidad la estrategia
+      * Desarrollan unas políticas de apoyo para gestionar una cartera tecnológica que apoye su estrategia general.
+      * Utilizar las tecnologías de la información y la comunicación para mejorar la eficacia de las actividades de la organización
+      * Gestionar la cartera tecnología, incluido el uso de la tecnología existente y sustitución de la tecnología obsoleta.
+      * Logran la implicación de las personas en le desarrollo y uso de las nuevas tecnologías
+      * Identifican, conocen y evalúan las tecnologías emergentes en función del impacto en la estrategia en la organización.
+      * Aprovechan las tecnologías para apoyar la innovación y la creatividad
     * e) Gestion de la informacion y del conocimiento para apoyar una eficaz toma de decisiones y construir las capacidades de la organizacion.
+      * Transformar los datos en información relevante y cuando conviene, transformándola en conocimiento, para que pueda ser compartida y utilizada eficazmente.
+      * Asegura de dotar a los lideres de una información precisa y suficiente para una toma de decisión es eficaz que asegure el futuro.
+      * Proporcionan y controlan un acceso adecuado a la información y conocimientos preocupantes para las personas asegurando la propiedad intelectual tanto exterior como interior.
+      * Establece y gestiona redes para identificar oportunidades de innovación que puedan surgir
+      * Utilizan la innovación para adoptar valor a los clientes nueva manera de trabajar y nuevas formas de desarrollar alianzas
+      * Partiendo del rendimiento actual identifican y generan innovación.
 * Procesos, Productos y Servicios
   * Definicion
     * Diseñar, gestionar y mejorar los procesos, productos y servicios de la organizacion para generar valor para los grupos de interes
   * Subcriterios
     * a) Los procesos se diseñan y gestionan a fin de optimizar el valor para los grupos de interes
+      * Analizan, clasifican y priorizan sus procesos como parte del sistema de gestión
+      * Gestionan y mejorarán sus procesos
+      * Desarrollan un mapa de procesos con propietarios, sistema de gestión y mejora de procesos.
+      * Conectan los objetivos estratégicos y los procesos principales
+      * Realizan innovaciones y mejora de los procesos.
     * b) Los productos y servicios se desarrollan para dar una valor optimo a los clientes
+      * Innovar y crear valor para el cliente
+      * Para mejorar los productos/servicios realizan ofertas de clientes.
+      * Implican a sus personas, clientes y proveedores para el desarrollo de nuevos e innovadores productos y servicios
+      * Anticipan el impacto y el valor potencial de las nuevas tecnologías en productos y servicios
+      * Utilizan la creatividad para diseñar nuevos productos innovadores junto con clientes y partners
+      * Consideran el impacto del ciclo de vida de los productos nuevos sobre la sostenibilidad económica, social y ambiental
     * c) Los productos y servicios se promocionan y ponen en el mercado eficazmente
+      * La proposición de valor equilibra las necesidades de sus grupos de interés
+      * Implementa un modelo empresarial definiendo puntos de venta, posicionamiento en mercado grupos de clientes objetos y canales distribución
+      * Definen una estrategia de promoción eficaz para sus productos
+      * Desarrollan una cartera de productos/servicios para sus clientes actuales y futuros
+      * Se aseguran de que son capaces de cumplir sus promesas
     * d) Los productos y servicios se producen distribuyen y se gestionan
+      * Producen y distribuyen productos y servicios que satisfacen o exceden las necesidades de los clientes de acuerdo con la proposición de valor que ofertan
+      * Se aseguran de que las personas disponen de las herramientas necesarias para que la experiencia del cliente sea optima
+      * Gestionan productos/servicios a lo largo del ciclo de vida considerado cualquier impacto en la salud publica, seguridad y medio ambiente teniendo en cuenta su reputación y reciclado
+      * Implican a sus grupos de interés en la optimización de la eficacion y eficiencia de su cadena de valor
     * e) Las relaciones con los clientes se gestionan y mejoran
+      * Conocen quienes son sus clientes y responden y se anticipan a sus necesidades y expectativas
+      * Determinan y satisfacen las necesidades de sus clientes con relación a las necesidades de contacto y comunicación
+      * Establecen un dialogo con todos sus clientes basado en la franqueza, transparencia y confianza
+      * Supervisan las experiencias y repercusiones de los clientes y responden rápida y eficazmente a cualquier demanda de información
+      * Asesoran a sus clientes en el uso responsable de sus productos.
 * Resultados en los clientes
   * Definicion
+    * Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+    * Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+    * Demustra resultados positivos durante al menos 3 años.
+    * Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+    * Anticipan el rendimiento y resultados futuros.
+    * Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+    * Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
   * Subcriterios
     * a) Percepciones
+      * Imagen
+      * Valor
+      * Distribucion
+      * Atencion al cliente
+      * Fidelidad
     * b) Indicadores de rendimiento
+      * Ventas
+      * Quejas
+      * Rendimiento
+      * Indicadores
 * Resultados en las personas
   * Definicion
+    * Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+    * Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+    * Demustra resultados positivos durante al menos 3 años.
+    * Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+    * Anticipan el rendimiento y resultados futuros.
+    * Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+    * Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
   * Subcriterios
     * a) Percepciones
     * b) Indicadores de rendimiento
 * Resultados en la sociedad
   * Definicion
+    * Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+    * Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+    * Demustra resultados positivos durante al menos 3 años.
+    * Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+    * Anticipan el rendimiento y resultados futuros.
+    * Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+    * Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
   * Subcriterios
     * a) Percepciones
     * b) Indicadores de rendimiento
 * Resultados clave
   * Definicion
+    * Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+    * Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+    * Demustra resultados positivos durante al menos 3 años.
+    * Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+    * Anticipan el rendimiento y resultados futuros.
+    * Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+    * Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
   * Subcriterios
     * a) Resultados estategicos clave
     * b) Indicadores clave del rendimiento de la organizacion
+      * Indicadores clave del rendimiento de la organizacion
+      * Supervisar, entender, predecir y mejroar resultados estrategicos
+      * Indicadores economicos-financieros
+      * Rendimeinto de partners y proveedores y tecnologia innovacion y conocimientos.
 
 ## 4. Equipos de mejora
 
@@ -1088,10 +1230,22 @@ NO HAY APUNTES
   * Lugar de trabajo
 * Como identificar los peligros
   * Definir alcance naturaleza y cronograma de los mismos
-  * Prever 
+  * Prever
 
 #### Implementacion y operacion
 
 * Se deben definir documentos y comunicar las funciones responsabilidades y autoridades de los empleados para que verifiquen que se cumplen los requisitos de la SST.
 * La responsabilidad de la SST recae sobre la direccion y debe proporcionar recuersos esenciales para el sistema de gestion de la SST
-* 
+  
+## 14. Shakelton
+
+* Visión y victorias rápidas nunca pierdan de vista la última meta y contrar su energía en objetivos a corto plazo
+* Simbolismo y ejemplo personal dar ejemplo con símbolos y conducirla visibles y fáciles de recordar
+* Optimismo y realidad. Inspira optimismo y autoconfianza para afrontar a la realidad.
+* Resistencia. Cuide de si mismo mantenga su resistencia y deje de sentimiento de culpa.
+* El mensaje de grupo. Refuerce constantemente el mensaje de grupo.
+* Valores claves de equipo. Minorar las diferencias de estatus e insistir en la cortesía y el respetuo mutuo
+* Conflicto. Dominar el conflicto. Manejar el enfado en dosis pequeñas, atraiga a los disidentes e impida luchas de poder innecesarias.
+* Relajarse. Encuentra algo que celebrar y algún motivo con el que reír.
+* El riesgo. Este dispuesto a asumir el gran riesgo.
+* Creatividad tenaz. Nunca abandone, siempre hay otro movimiento.
