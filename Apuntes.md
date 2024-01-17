@@ -7,7 +7,7 @@
 
 1. [Evolucion historica](#1-evolucion-historica)
 2. [Conceptos de Gestion de Calidad](#2-conceptos-de-gestion-de-calidad)
-3. [*Modelo EFQM](#3-modelo-efqm)
+3. [Modelo EFQM](#3-modelo-efqm)
 4. [Equipos de mejora](#4-equipos-de-mejora)
 5. [Procesos](#5-procesos)
 6. [Extrategia](#6-extrategia)
@@ -16,9 +16,8 @@
 9. [*ISO 9001 - 2015](#9-iso-9001---2015)
 10. [ISO 14001 - 2004](#10-iso-14001---2004)
 11. [ISO 14001 - 2015](#11-iso-14001---2015)
-12. [*ISO 45001](#12-iso-45001)
-13. [*OHAS 18000](#13-ohas-18000)
-14. [Shakelton](#14-shakelton)
+12. [*OHAS 18000](#12-ohas-18000)
+13. [Shakelton](#13-shakelton)
 
 ## 1. Evolucion historica
 
@@ -1140,11 +1139,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Quejas
 * Oportunidades de mejora
 
-## 12. ISO 45001
-
-NO HAY APUNTES
-
-## 13. OHAS 18000
+## 12. OHAS 18000
 
 ### Antecendentes
 
@@ -1237,7 +1232,7 @@ NO HAY APUNTES
 * Se deben definir documentos y comunicar las funciones responsabilidades y autoridades de los empleados para que verifiquen que se cumplen los requisitos de la SST.
 * La responsabilidad de la SST recae sobre la direccion y debe proporcionar recuersos esenciales para el sistema de gestion de la SST
   
-## 14. Shakelton
+## 13. Shakelton
 
 * Visión y victorias rápidas nunca pierdan de vista la última meta y contrar su energía en objetivos a corto plazo
 * Simbolismo y ejemplo personal dar ejemplo con símbolos y conducirla visibles y fáciles de recordar

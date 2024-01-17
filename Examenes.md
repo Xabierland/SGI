@@ -66,7 +66,19 @@
 
 10. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
->
+> Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+
+> Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+
+> Demustra resultados positivos durante al menos 3 años.
+
+> Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+
+> Anticipan el rendimiento y resultados futuros.
+
+> Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+
+> Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
 
 11. Gestión de las compras, explicar porque es importante en la empresas industriales y relacinarlo con un criterio del modelo EFQM.
 
@@ -82,7 +94,19 @@
 
 1. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
->
+> Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+
+> Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+
+> Demustra resultados positivos durante al menos 3 años.
+
+> Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+
+> Anticipan el rendimiento y resultados futuros.
+
+> Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+
+> Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
 
 2. Definir analisis DAFO y describir lo que es Benchmarking.
 
@@ -157,7 +181,19 @@
 
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
-> 
+> Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+
+> Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+
+> Demustra resultados positivos durante al menos 3 años.
+
+> Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+
+> Anticipan el rendimiento y resultados futuros.
+
+> Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+
+> Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
 
 3. En el modelo EFQM explicar el criterio alianzas y recursos y desarrollar uno de sus subcriterios.
 
@@ -217,7 +253,19 @@
 
 2. Cuando analizamos los resultados de los indicadores que una empresa presenta, que elementos y caracteristicas de esos resultados se deben tener en cuenta, que exigimos a los resultados de una empresa para que esa empresa sea considerada excelente o que camina hacia la excelencia.
 
->
+> Desarrolan indicadores de rendimiento y resultados finales basados en las necesidades de los clientes y determinan el rexito de sus estrategias y politicas
+
+> Establecen objetivos claros para los resultados basado en las necesidades, expectativas y estrategias escogidas.
+
+> Demustra resultados positivos durante al menos 3 años.
+
+> Entiendes claramente las razones y factores clave que impulsan las tendencias y observan el impacto que tienen en los indicadores.
+
+> Anticipan el rendimiento y resultados futuros.
+
+> Entienden como se comparan los resultados claves con organizaciones similares y asi establecen objetivos.
+
+> Segmentan los resultados para entender las necesidades y expectativas de los grupos de interes.
 
 3. En el modelo EFQM explicar el criterio liderazgo y de sus subcriterios elegir uno y desarrollarlo.
 
@@ -287,7 +335,17 @@
 
 4. ¿Cuales son las ventajas de la aplicacion de una buena Gestion Ambiental? ¿Es realmente importante para conseguir un Sistema Integrado de Gestion? Justifica las respuestas.
 
-> 
+> Mejora relaciones: Contratos publicos, Mejora imagen
+
+> Aumenta competitividad: Nuevos mercados
+
+> Reduce costes: Optimiza procesos, Evita sanciones, Evita indemnizaciones, Evita riesgos medioambientales
+
+> Financiacion: Mejor credito, Ayudas publicas, Menores primas de seguros
+
+> Anticipacion a futuras normativas: Prepara a la empresa para futuras normativas
+
+> Mejora continua
 
 5. Explicar en que consiste el ciclo PDCA. Representar graficamente.
 
