@@ -655,6 +655,7 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 * Formulacion de la estrategia
   * Estrategia
   * Politicas
+* Revision de la estrategia
 
 #### 6.2.1 Planificacion estrategica
 
@@ -861,32 +862,11 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 
 ## 9. ISO 9001 - 2015
 
-### 9.1 Principios de gestion de calidad
-
-* Enfoque al cliente
-* Liderazgo
-* Compromiso de las personas
-* Enfoque a procesos
-  * Organizar actividades
-  * Identificarcion y gestion
-  * Control y mejora
-* Mejora
-* Toma de decisiones basadas en datos
-* Gestion de las relaciones
-
-### 9.2 Documentacion de los procesos
+### 9.1 Documentacion de los procesos
 
 * Manual de calidad
   * Resumen del sistema de gestion
 * Registros
-
-### 9.3 Liderazgo
-
-### 9.4 Planificacion
-
-### 9.5 Apoyo
-
-### 9.6 Gestion de personas
 
 ### 9.2 Claves de implantacion
 
@@ -896,11 +876,18 @@ Todos los sucesos estudiados desde 1950-1990 confluyen en los siguientes princip
 4. Abordar los riegos y las oportunidades.
 5. Tener un sistema de gestion de calidad capaz.
 
-### 9.3 Mejora continua
+### 9.3 Revision por la direccion
 
-![image](https://www.researchgate.net/publication/318874517/figure/fig2/AS:523171641204736@1501745247423/Figura4-Modelo-de-un-Sistema-de-Gestion-de-la-Calidad-basado-por-Procesos-22-Esta.png)
-
-### 9.7
+1. Resultados de las auditorias
+2. Retroalimentacion del cliente
+3. Desempeño de procesos y conformidad de productos
+4. Estado de las acciones preventivas y correctivas
+5. Seguimiento de acciones de revisiones anteriores
+6. Cambios sistema de calidad
+7. Recomendaciones para la mejora
+8. Acciones para mejorar el sistema de gestion y los procesos
+9. Mejora del producto en relacion a los requisitos del cliente
+10. Acciones sobre la necesidad de recursos
 
 ## 10. ISO 14001 - 2004
 

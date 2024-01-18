@@ -402,3 +402,80 @@
 > Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos.
 
 > Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
+
+## Examen 12/01/2023
+
+### Desarrollar
+
+1. En el Modelo EFQM, citar y explicar sucintamente los cinco CRITERIOS AGENTES y desarrollar uno de ellos.
+
+> Liderazgo: Las organizaciones excelentes tienen lideres que dan forma al futuro y crean un entorno interno que permite a los colaboradores alcanzar los objetivos de la organizacion.
+
+> Politica y estrategia: Implantan su mision y mision desarrollando una estrategia basada en los grupos de interes
+
+> Personas: Valorar a las personas una cultura del trabajo que permita lograr a las personas y organizacion sus objetivos. Desarrollar las capacidades de las personas y su involucracion en la organizacion.
+
+> Alianzas y recursos: Planificar y gestionar las alianzas externas, proveedores y recursos internos para apoyar la estrategia y sus politicas. Gestionar eficazmente su impacto social y ambiental.
+
+> Procesos, Productos y Servicios: Diseñar, gestionar y mejorar los procesos, productos y servicios de la organizacion para generar valor para los grupos de interes
+
+2. Desarrollas fases para la implantacion de un Proyecto 5S y explicar la razon de su exito en Euskadi.
+
+> Tres fases: Fases operativas, Estandarizar y mantener y mejorar.
+
+> Fases operativas: Organizacion, Orden, Limpieza
+
+> Estandarizar: Control visual
+
+> Mantener y mejorar: Disciplina y habitos
+
+> Su exito en Euskadi se debe al gran numero de empresas industriales que existen en el territorio a las cuales este metodo les ayuda a mejorar su productividad. Ademas, esto tambien ha sido apoyado con el premio de la Q de plata y oro.
+
+3. Desarrollar tres conceptos de Calidad que se han dado a lo largo del siglo XX.
+
+> 1900-1950: El grado en que un producto cumple con los requisitos especificados.
+
+> 1970-1990: El grado en que un producto o servicio cumple con las expectativas del cliente.
+
+> 1990-2010: El grado en que la organizacion satisface las necesidades de todos los grupos de interes.
+
+4. En la Norma ISO 9001-2015, explicar los aspectos que tiene en cuenta la revision por la direccion.
+
+> Resultados de las auditorias,
+> Retroalimentacion del cliente,
+> Desempeño de procesos y conformidad de productos,
+> Estado de las acciones preventivas y correctivas,
+> Seguimiento de acciones de revisiones anteriores,
+> Cambios sistema de calidad,
+> Recomendaciones para la mejora,
+> Acciones para mejorar el sistema de gestion y los procesos,
+> Mejora del producto en relacion a los requisitos del cliente,
+> Acciones sobre la necesidad de recursos.
+
+5. Desarrollar el concepto y las fases asociadas a la Planificacion Estrategica. Explicar que son los FCE, los FACTORES CRITICOS DE EXITO.
+
+> Definir la mision, vision y valores de la organizacion.
+
+> Analisis interno y externo.
+
+> Formular las estrategias.
+
+> Planificar la estrategia, metas, planes y acciones de mejora en el corto, medio y largo plazo. 
+
+> FCE: Factores que son necesarios para que una organizacion tenga exito.
+
+6. Definir: producto no conforme, incidencia y reclamacion. Describir las acciones a realizar con los productos no conformes.
+
+> Producto no conforme: Producto que no cumple con los requisitos especificados.
+
+> Incidencia: No conformidad detectada antes de la entrega del producto.
+
+> Reclamacion: No conformidad detectada despues de la entrega del producto.
+
+7. Citar los conceptos fundamentales de la excelencia y desarrollar dos.
+
+> Orientado a resultados, orientado a clientes, liderazgo, gestion por procesos y hechos, desarrollo e implicacion de las personas, mejora continua, desarrollo de alianzas, responsabilidad social.
+
+> Desarrollo de alianzas: Dado que las organizaciones se necesitan unas a otras para optimizar, crecer y mejorar la produccion, es necesario establecer alianzas con otras organizaciones para conseguir los objetivos.
+
+> Responsabilidad social: Una organizacion debe devolver a la sociedad lo que le ha dado esta. Si la sociedad da exito a la empresa eta debe de intentar devolverlo con sus productos o servicios.
